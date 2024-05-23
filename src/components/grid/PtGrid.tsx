@@ -4,18 +4,32 @@ import PTCard from '../card/PtCard';
 import PTSearch from '../text-field/PtSearch';
 import PtTableCell from '../cell/PtTableCell';
 import PtTable from '../table/PtTable';
-import { PtTableInformationModel } from '../../models/table-cell';
+import { PtTableCellModel, PtTableDataModel, PtTableInformationModel } from '../../models/table-cell';
 import { useState } from 'react';
+import components from '../../data/components.json';
 
 function PTGrid() {
-    const [cellInformation, setCellInformation] = useState<PtTableInformationModel>();
+    const data: PtTableDataModel[] = components;
+
+    const [cellInformation, setCellInformation] = useState<PtTableInformationModel>(data[0].information);
+    const [searchString, setSearchString] = useState('')
+
     const handleCellClick = (information: PtTableInformationModel) => {
         setCellInformation(information);
     };
-    const [searchString, setSearchString] = useState('')
     const handleSearchChange = (value: string) => {
         setSearchString(value)
     }
+       
+    
+    const cells: PtTableCellModel[] = data.map((item) => {
+        return {    
+            information: item.information,
+            position: item.position,
+            active: Boolean(searchString) && item.information.sign.toLowerCase().includes(searchString.toLowerCase()),
+            selected: cellInformation?.orderNumber ===  item.information.orderNumber
+        }
+    });
     return (
         <Grid container spacing={2}>
             <Grid item xs={2}>
@@ -23,7 +37,7 @@ function PTGrid() {
                 <PTCard information={cellInformation}></PTCard>
             </Grid>
             <Grid item xs={10}>
-                <PtTable onCellClick={handleCellClick} search={searchString} selectedOrderNumber={cellInformation?.orderNumber}></PtTable>
+                <PtTable onCellClick={handleCellClick} cells={cells} ></PtTable>
             </Grid>
             {/* <Grid item xs={27}>
                 <PTSearch></PTSearch>
