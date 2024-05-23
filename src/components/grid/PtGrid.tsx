@@ -33,11 +33,11 @@ function PTGrid() {
     return (
         <Grid container spacing={2}>
             <Grid item xs={2}>
-                <PTSearch value={searchString} onChange={handleSearchChange}></PTSearch>
-                <PTCard information={cellInformation}></PTCard>
+                <PTSearch value={searchString} onChange={handleSearchChange}/>
+                <Box marginTop={2}><PTCard information={cellInformation}/></Box>
             </Grid>
             <Grid item xs={10}>
-                <PtTable onCellClick={handleCellClick} cells={cells} ></PtTable>
+                <PtTable onCellClick={handleCellClick} cells={cells}/>
             </Grid>
             {/* <Grid item xs={27}>
                 <PTSearch></PTSearch>
