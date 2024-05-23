@@ -1,0 +1,2244 @@
+[
+    {
+        "information": {
+            "orderNumber": 1,
+            "sign": "H",
+            "name": "Hydrogen",
+            "weight": "1.008",
+            "valence": "1",
+            "group": "nonmetals",
+            "state": "gas",
+            "open": "1803",
+            "electronic": "1s1",
+            "tBoil": "-252,9 °C",
+            "tMelt": "-259,1 °C"
+        },
+        "position": {
+            "row": 1,
+            "column": 1
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 2,
+            "sign": "He",
+            "name": "Helium",
+            "weight": "4.002602",
+            "valence": "2",
+            "group": "inert gases",
+            "state": "gas",
+            "open": "1895",
+            "electronic": "1s2",
+            "tBoil": "-269 °C",
+            "tMelt": "not"
+        },
+        "position": {
+            "row": 1,
+            "column": 18
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 3,
+            "sign": "Li",
+            "name": "Lithium",
+            "weight": "6.94",
+            "valence": "`, 2",
+            "group": "alkali metals",
+            "state": "solid",
+            "open": "1817",
+            "electronic": "1s2 2s1",
+            "tBoil": "1342 °C",
+            "tMelt": "180,54 °C"
+        },
+        "position": {
+            "row": 2,
+            "column": 1
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 4,
+            "sign": "Be",
+            "name": "Beryllium",
+            "weight": "9.0121831",
+            "valence": "2",
+            "group": "",
+            "state": "solid",
+            "open": "1797",
+            "electronic": "1s2 2s2",
+            "tBoil": "2470 °C",
+            "tMelt": "1287 °C"
+        },
+        "position": {
+            "row": 2,
+            "column": 2
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 5,
+            "sign": "B",
+            "name": "Boron",
+            "weight": "10.81",
+            "valence": "2, 3",
+            "group": "",
+            "state": "solid",
+            "open": "1808",
+            "electronic": "1s2 2s2 2p1",
+            "tBoil": "4000 °C",
+            "tMelt": "2075 °C"
+        },
+        "position": {
+            "row": 2,
+            "column": 13
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 6,
+            "sign": "C",
+            "name": "Carbon",
+            "weight": "12.011",
+            "valence": "2, 4",
+            "group": "",
+            "state": "solid",
+            "open": "",
+            "electronic": "1s2 2s2 2p2",
+            "tBoil": "3642 °C",
+            "tMelt": "3 642 °C"
+        },
+        "position": {
+            "row": 2,
+            "column": 14
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 7,
+            "sign": "N",
+            "name": "Nitrogen",
+            "weight": "14.007",
+            "valence": "2, 5",
+            "group": "nonmetals",
+            "state": "gas",
+            "open": "1772",
+            "electronic": "1s2 2s2 2p3",
+            "tBoil": "-195,8 °C",
+            "tMelt": "-210,1 °C"
+        },
+        "position": {
+            "row": 2,
+            "column": 15
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 8,
+            "sign": "O",
+            "name": "Oxygen",
+            "weight": "15.999",
+            "valence": "2, 6",
+            "group": "nonmetals",
+            "state": "gas",
+            "open": "1774",
+            "electronic": "1s2 2s2 2p4",
+            "tBoil": "-183 °C",
+            "tMelt": "-218 °C"
+        },
+        "position": {
+            "row": 2,
+            "column": 16
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 9,
+            "sign": "F",
+            "name": "Fluorine",
+            "weight": "18.998403162",
+            "valence": "1, 7",
+            "group": "nonmetals",
+            "state": "gas",
+            "open": "1886",
+            "electronic": "1s2 2s2 2p5",
+            "tBoil": "-188,1 °C",
+            "tMelt": "-220 °C"
+        },
+        "position": {
+            "row": 2,
+            "column": 17
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 10,
+            "sign": "Ne",
+            "name": "Neon",
+            "weight": "20.1797",
+            "valence": "2, 8",
+            "group": "inert gases",
+            "state": "gas",
+            "open": "1898",
+            "electronic": "1s2 2s2 2p6",
+            "tBoil": "-246,1 °C",
+            "tMelt": "-248,6 °C"
+        },
+        "position": {
+            "row": 2,
+            "column": 18
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 11,
+            "sign": "Na",
+            "name": "Sodium",
+            "weight": "22.98976928",
+            "valence": "1",
+            "group": "alkali metals",
+            "state": "solid",
+            "open": "1807",
+            "electronic": "1s2 2s2 2p6 3s1",
+            "tBoil": "882,9 °C",
+            "tMelt": "97,72 °C"
+        },
+        "position": {
+            "row": 3,
+            "column": 1
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 12,
+            "sign": "Mg",
+            "name": "Magnesium",
+            "weight": "24.305",
+            "valence": "2",
+            "group": "alkali metals",
+            "state": "solid",
+            "open": "1755",
+            "electronic": "1s2 2s2 2p6 3s2",
+            "tBoil": "1090 °C",
+            "tMelt": "650 °C"
+        },
+        "position": {
+            "row": 3,
+            "column": 2
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 13,
+            "sign": "Al",
+            "name": "Aluminium",
+            "weight": "26.9815384",
+            "valence": "3",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1825",
+            "electronic": "1s2 2s2 2p6 3s2 3p1",
+            "tBoil": "2519 °C",
+            "tMelt": "660,32 °C"
+        },
+        "position": {
+            "row": 3,
+            "column": 13
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 14,
+            "sign": "Si",
+            "name": "Silicon",
+            "weight": "28.085",
+            "valence": "2, 4",
+            "group": "semimetals",
+            "state": "solid",
+            "open": "1824",
+            "electronic": "1s2 2s2 2p6 3s2 3p2",
+            "tBoil": "2900 °C",
+            "tMelt": "1414 °C"
+        },
+        "position": {
+            "row": 3,
+            "column": 14
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 15,
+            "sign": "P",
+            "name": "Phosphorus",
+            "weight": "30.973761998",
+            "valence": "2, 5",
+            "group": "nonmetals",
+            "state": "solid",
+            "open": "1669",
+            "electronic": "1s2 2s2 2p6 3s2 3p3",
+            "tBoil": "280,5 °C",
+            "tMelt": "44,15 °C"
+        },
+        "position": {
+            "row": 3,
+            "column": 15
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 16,
+            "sign": "S",
+            "name": "Sulfur",
+            "weight": "32.06",
+            "valence": "2, 6",
+            "group": "nonmetals",
+            "state": "solid",
+            "open": "500",
+            "electronic": "1s2 2s2 2p6 3s2 3p4",
+            "tBoil": "444,72 °C",
+            "tMelt": "115,21 °C"
+        },
+        "position": {
+            "row": 3,
+            "column": 16
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 17,
+            "sign": "Cl",
+            "name": "Chlorine",
+            "weight": "35.45",
+            "valence": "1",
+            "group": "nonmetals",
+            "state": "gas",
+            "open": "1774",
+            "electronic": "1s2 2s2 2p6 3s2 3p5",
+            "tBoil": "-34,04 °C",
+            "tMelt": "-101,5 °C"
+        },
+        "position": {
+            "row": 3,
+            "column": 17
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 18,
+            "sign": "Ar",
+            "name": "Argon",
+            "weight": "39.948",
+            "valence": "2",
+            "group": "inert gases",
+            "state": "gas",
+            "open": "1894",
+            "electronic": "1s2 2s2 2p6 3s2 3p5",
+            "tBoil": "-186 °C",
+            "tMelt": "-189 °C"
+        },
+        "position": {
+            "row": 3,
+            "column": 18
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 19,
+            "sign": "K",
+            "name": "Potassium",
+            "weight": "39.0983",
+            "valence": "1, 2",
+            "group": "alkali metals",
+            "state": "solid",
+            "open": "1807",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 4s1",
+            "tBoil": "759,8 °C",
+            "tMelt": "63,38 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 1
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 20,
+            "sign": "Ca",
+            "name": "Calcium",
+            "weight": "40.078",
+            "valence": "2",
+            "group": "alkaline earth metals",
+            "state": "solid",
+            "open": "1808",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 4s2",
+            "tBoil": "1484 °C",
+            "tMelt": "841,9 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 2
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 21,
+            "sign": "Sc",
+            "name": "Scandium",
+            "weight": "44.955907",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1879",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2",
+            "tBoil": "2830 °C",
+            "tMelt": "1541 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 3
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 22,
+            "sign": "Ti",
+            "name": "Titanium",
+            "weight": "47.867",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1791",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d2 4s2",
+            "tBoil": "3287 °C",
+            "tMelt": "1668 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 4
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 23,
+            "sign": "V",
+            "name": "Vanadium",
+            "weight": "50.9415",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1801",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d3 4s2",
+            "tBoil": "3407 °C",
+            "tMelt": "1910 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 5
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 24,
+            "sign": "Cr",
+            "name": "Chromium",
+            "weight": "51.9961",
+            "valence": "2, 3, 7",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1797",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d4 4s2",
+            "tBoil": "2671 °C",
+            "tMelt": "1907 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 6
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 25,
+            "sign": "Mn",
+            "name": "Manganese",
+            "weight": "54.938043",
+            "valence": "2, 5, 7",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1774",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d5 4s2",
+            "tBoil": "2061 °C",
+            "tMelt": "1246 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 7
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 26,
+            "sign": "Fe",
+            "name": "Iron",
+            "weight": "55.845",
+            "valence": "2, 3",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "2000",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d6 4s2",
+            "tBoil": "2861 °C",
+            "tMelt": "1538 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 8
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 27,
+            "sign": "Co",
+            "name": "Cobalt",
+            "weight": "58.933194",
+            "valence": "2, 3",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1735",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d7 4s2",
+            "tBoil": "2900 °C",
+            "tMelt": "1495 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 9
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 28,
+            "sign": "Ni",
+            "name": "Nickel",
+            "weight": "58.6934",
+            "valence": "2, 3",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1751",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d8 4s2",
+            "tBoil": "2913 °C",
+            "tMelt": "1414 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 10
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 29,
+            "sign": "Cu",
+            "name": "Copper",
+            "weight": "63.546",
+            "valence": "1, 2, 3",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1791",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d9 4s2",
+            "tBoil": "2562 °C",
+            "tMelt": "1084,62 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 11
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 30,
+            "sign": "Zn",
+            "name": "Zinc",
+            "weight": "65.38",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1500",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d10 4s2",
+            "tBoil": "906.9 °C",
+            "tMelt": "419,53 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 12
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 31,
+            "sign": "Ga",
+            "name": "Gallium",
+            "weight": "69.723",
+            "valence": "2, 3",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1875",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d10 4s2 4p1",
+            "tBoil": "2204 °C",
+            "tMelt": "29,76 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 13
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 32,
+            "sign": "Ge",
+            "name": "Germanium",
+            "weight": "72.63",
+            "valence": "2, 4",
+            "group": "semimetals",
+            "state": "solid",
+            "open": "1886",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d10 4s2 4p2",
+            "tBoil": "2820 °C",
+            "tMelt": "938,25 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 14
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 33,
+            "sign": "As",
+            "name": "Arsenic",
+            "weight": "74.921595",
+            "valence": "2. 5",
+            "group": "semimetals",
+            "state": "solid",
+            "open": "1250",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d10 4s2 4p3",
+            "tBoil": "816,9 °C",
+            "tMelt": "614 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 15
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 34,
+            "sign": "Se",
+            "name": "Selenium",
+            "weight": "78.971",
+            "valence": "2, 6",
+            "group": "nonmetals",
+            "state": "solid",
+            "open": "1817",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p4",
+            "tBoil": "685 °C",
+            "tMelt": "221 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 16
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 35,
+            "sign": "Br",
+            "name": "Bromine",
+            "weight": "79.904",
+            "valence": "1",
+            "group": "nonmetals",
+            "state": "liquid",
+            "open": "1826",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p5",
+            "tBoil": "58,9 °C",
+            "tMelt": "-7,35 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 17
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 36,
+            "sign": "Kr",
+            "name": "Krypton",
+            "weight": "83.798",
+            "valence": "2",
+            "group": "inert gases",
+            "state": "gas",
+            "open": "1898",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6",
+            "tBoil": "-153,22 °C",
+            "tMelt": "-157,36 °C"
+        },
+        "position": {
+            "row": 4,
+            "column": 18
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 37,
+            "sign": "Rb",
+            "name": "Rubidium",
+            "weight": "85.4678",
+            "valence": "1",
+            "group": "alkali metals",
+            "state": "solid",
+            "open": "1861",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 5s1",
+            "tBoil": "688 °C",
+            "tMelt": "39,31 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 1
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 38,
+            "sign": "Sr",
+            "name": "Strontium",
+            "weight": "87.62",
+            "valence": "2",
+            "group": "alkaline earth metals",
+            "state": "solid",
+            "open": "1790",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 5s2",
+            "tBoil": "1382 °C",
+            "tMelt": "776,9 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 2
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 39,
+            "sign": "Y",
+            "name": "Yttrium",
+            "weight": "88.905838",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1794",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d1 5s2",
+            "tBoil": "3345 °C",
+            "tMelt": "1526 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 3
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 40,
+            "sign": "Zr",
+            "name": "Zirconium",
+            "weight": "91.224",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1789",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d2 5s2",
+            "tBoil": "4409 °C",
+            "tMelt": "1855 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 4
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 41,
+            "sign": "Nb",
+            "name": "Niobium",
+            "weight": "92.90637",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1801",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d4 5s1",
+            "tBoil": "4744 °C",
+            "tMelt": "2477 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 5
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 42,
+            "sign": "Mo",
+            "name": "Molybdenum",
+            "weight": "95.95",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1781",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d5 5s1",
+            "tBoil": "4639 °C",
+            "tMelt": "2623 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 6
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 43,
+            "sign": "Tc",
+            "name": "Technetium",
+            "weight": "(98)",
+            "valence": "2, 4, 7",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1937",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d5 5s2",
+            "tBoil": "4265 °C",
+            "tMelt": "2157 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 7
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 44,
+            "sign": "Ru",
+            "name": "Ruthenium",
+            "weight": "101.07",
+            "valence": "2, 4",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1844",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d7 5s1",
+            "tBoil": "4150 °C",
+            "tMelt": "2334 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 8
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 45,
+            "sign": "Rh",
+            "name": "Rhodium",
+            "weight": "102.90549",
+            "valence": "2, 3, 4, 6",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1803",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d8 5s1",
+            "tBoil": "3695 °C",
+            "tMelt": "1964 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 9
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 46,
+            "sign": "Pd",
+            "name": "Palladium",
+            "weight": "106.42",
+            "valence": "2, 4",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1803",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10",
+            "tBoil": "2963 °C",
+            "tMelt": "1554,9 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 10
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 47,
+            "sign": "Ag",
+            "name": "Silver",
+            "weight": "107.8682",
+            "valence": "1, 2, 3",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "3000",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s1",
+            "tBoil": "2162 °C",
+            "tMelt": "961,78 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 11
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 48,
+            "sign": "Cd",
+            "name": "Cadmium",
+            "weight": "112.414",
+            "valence": "2, 4",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1817",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2",
+            "tBoil": "766,9 °C",
+            "tMelt": "321,07 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 12
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 49,
+            "sign": "In",
+            "name": "Indium",
+            "weight": "114.818",
+            "valence": "2, 3, 4",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1863",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p1",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 5,
+            "column": 13
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 50,
+            "sign": "Sn",
+            "name": "Tin",
+            "weight": "118.710",
+            "valence": "2, 4",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "3000",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p2",
+            "tBoil": "2602 °C",
+            "tMelt": "231,93 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 14
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 51,
+            "sign": "Sb",
+            "name": "Antimony",
+            "weight": "121.760",
+            "valence": "2, 4",
+            "group": "semimetals",
+            "state": "solid",
+            "open": "3000",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p3",
+            "tBoil": "1587 °C",
+            "tMelt": "630,63 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 15
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 52,
+            "sign": "Te",
+            "name": "Tellurium",
+            "weight": "127.60",
+            "valence": "2, 6",
+            "group": "semimetals",
+            "state": "solid",
+            "open": "1783",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p4",
+            "tBoil": "987,9 °C",
+            "tMelt": "449,51 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 16
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 53,
+            "sign": "I",
+            "name": "Iodine",
+            "weight": "126.90447",
+            "valence": "1, 7",
+            "group": "nonmetals",
+            "state": "solid",
+            "open": "1811",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p5",
+            "tBoil": "184,3 °C",
+            "tMelt": "113,7 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 17
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 54,
+            "sign": "Xe",
+            "name": "Xenon",
+            "weight": "131.293",
+            "valence": "2, 8",
+            "group": "inert gases",
+            "state": "gas",
+            "open": "1898",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6",
+            "tBoil": "-108 °C",
+            "tMelt": "-111,8 °C"
+        },
+        "position": {
+            "row": 5,
+            "column": 18
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 55,
+            "sign": "Cs",
+            "name": "Caesium",
+            "weight": "132.90545196",
+            "valence": "1, 2",
+            "group": "alkali metals",
+            "state": "solid",
+            "open": "1860",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 6s1",
+            "tBoil": "671 °C",
+            "tMelt": "28,44 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 1
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 56,
+            "sign": "Ba",
+            "name": "Barium",
+            "weight": "137.327",
+            "valence": "2",
+            "group": "alkaline earth metals",
+            "state": "solid",
+            "open": "1808",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 6s2",
+            "tBoil": "1870 °C",
+            "tMelt": "730 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 2
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 57,
+            "sign": "La",
+            "name": "Lanthanum",
+            "weight": "138.90547",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1839",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 5d1 6s2",
+            "tBoil": "3464 °C",
+            "tMelt": "919,9 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 4
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 58,
+            "sign": "Ce",
+            "name": "Cerium",
+            "weight": "140.116",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1803",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f1 5d1 6s2",
+            "tBoil": "3360 °C",
+            "tMelt": "797,9 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 5
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 59,
+            "sign": "Pr",
+            "name": "Praseodymium",
+            "weight": "140.90766",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1885",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f3 6s2",
+            "tBoil": "3290 °C",
+            "tMelt": "930,9 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 6
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 60,
+            "sign": "Nd",
+            "name": "Neodymium",
+            "weight": "144.242",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1885",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f4 6s2",
+            "tBoil": "3100 °C",
+            "tMelt": "1021 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 7
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 61,
+            "sign": "Pm",
+            "name": "Promethium",
+            "weight": "(145)",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1945",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f5 6s2",
+            "tBoil": "3000 °C",
+            "tMelt": "1100 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 8
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 62,
+            "sign": "Sm",
+            "name": "Samarium",
+            "weight": "150.36",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1879",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f6 6s2",
+            "tBoil": "1803 °C",
+            "tMelt": "1072 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 9
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 63,
+            "sign": "Eu",
+            "name": "Europium",
+            "weight": "151.964",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1901",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f7 6s2",
+            "tBoil": "1500 °C",
+            "tMelt": "821,9 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 10
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 64,
+            "sign": "Gd",
+            "name": "Gadolinium",
+            "weight": "157.25",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1880",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f7 5d1 6s2",
+            "tBoil": "3250 °C",
+            "tMelt": "1313 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 11
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 65,
+            "sign": "Tb",
+            "name": "Terbium",
+            "weight": "158.925354",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1843",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f9 6s2",
+            "tBoil": "3230 °C",
+            "tMelt": "1356 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 12
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 66,
+            "sign": "Dy",
+            "name": "Dysprosium",
+            "weight": "162.500",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1886",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f10 6s2",
+            "tBoil": "2567 °C",
+            "tMelt": "1412 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 13
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 67,
+            "sign": "Ho",
+            "name": "Holmium",
+            "weight": "164.930329",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1878",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f11 6s2",
+            "tBoil": "2700 °C",
+            "tMelt": "1474 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 14
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 68,
+            "sign": "Er",
+            "name": "Erbium",
+            "weight": "167.259",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1842",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f12 6s2",
+            "tBoil": "2868 °C",
+            "tMelt": "1497 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 15
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 69,
+            "sign": "Tm",
+            "name": "Thulium",
+            "weight": "168.934219",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1879",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f13 6s2",
+            "tBoil": "1950 °C",
+            "tMelt": "1545 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 16
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 70,
+            "sign": "Yb",
+            "name": "Ytterbium",
+            "weight": "173.045",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1878",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 6s2",
+            "tBoil": "1196 °C",
+            "tMelt": "818,9 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 17
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 71,
+            "sign": "Lu",
+            "name": "Lutetium",
+            "weight": "174.9668",
+            "valence": "2",
+            "group": "lantanoids",
+            "state": "solid",
+            "open": "1907",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d1 6s2",
+            "tBoil": "3402 °C",
+            "tMelt": "1663 °C"
+        },
+        "position": {
+            "row": 8,
+            "column": 18
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 72,
+            "sign": "Hf",
+            "name": "Hafnium",
+            "weight": "178.486",
+            "valence": "2",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1923",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d2 6s2",
+            "tBoil": "4603 °C",
+            "tMelt": "2233 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 4
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 73,
+            "sign": "Ta",
+            "name": "Tantalum",
+            "weight": "180.94788",
+            "valence": "5",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1802",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d3 6s2",
+            "tBoil": "5458 °C",
+            "tMelt": "3017 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 5
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 74,
+            "sign": "W",
+            "name": "Tungsten",
+            "weight": "183.84",
+            "valence": "2, 3, 4, 5, 6",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1783",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d4 6s2",
+            "tBoil": "5555 °C",
+            "tMelt": "3422 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 6
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 75,
+            "sign": "Re",
+            "name": "Rhenium",
+            "weight": "186.207",
+            "valence": "1, 2, 3, 4, 5, 6, 7",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1925",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d5 6s2",
+            "tBoil": "5596 °C",
+            "tMelt": "3186 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 7
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 76,
+            "sign": "Os",
+            "name": "Osmium",
+            "weight": "190.23",
+            "valence": "2, 3, 4, 6, 8",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1803",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d6 6s2",
+            "tBoil": "5012 °C",
+            "tMelt": "3033 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 8
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 77,
+            "sign": "Ir",
+            "name": "Iridium",
+            "weight": "192.217",
+            "valence": "1, 2, 3, 4, 5, 6",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1803",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d7 6s2",
+            "tBoil": "4428 °C",
+            "tMelt": "2466 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 9
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 78,
+            "sign": "Pt",
+            "name": "Platinum",
+            "weight": "195.084",
+            "valence": "2, 3, 4",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "1735",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d9 6s1",
+            "tBoil": "3825 °C",
+            "tMelt": "1768,3 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 10
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 79,
+            "sign": "Au",
+            "name": "Gold",
+            "weight": "196.966570",
+            "valence": "2, 3",
+            "group": "transitions metals",
+            "state": "solid",
+            "open": "2500",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s1",
+            "tBoil": "2856 °C",
+            "tMelt": "1064,18 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 11
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 80,
+            "sign": "Hg",
+            "name": "Mercury",
+            "weight": "200.59",
+            "valence": "",
+            "group": "transitions metals",
+            "state": "liquid",
+            "open": "1500",
+            "electronic": "1s2 2s2 2p6 3s2 3p4 3d1 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2",
+            "tBoil": "356,73 °C",
+            "tMelt": "-38,83 °C"
+        },
+        "position": {
+            "row": 6,
+            "column": 12
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 81,
+            "sign": "Tl",
+            "name": "Thallium",
+            "weight": "204.38",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 6,
+            "column": 13
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 82,
+            "sign": "Pb",
+            "name": "Lead",
+            "weight": "207.2",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 6,
+            "column": 14
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 83,
+            "sign": "Bi",
+            "name": "Bismuth",
+            "weight": "208.98040",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 6,
+            "column": 15
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 84,
+            "sign": "Po",
+            "name": "Polonium",
+            "weight": "(209)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 6,
+            "column": 16
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 85,
+            "sign": "At",
+            "name": "Astatine",
+            "weight": "(210)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 6,
+            "column": 17
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 86,
+            "sign": "Rn",
+            "name": "Radon",
+            "weight": "(222)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 6,
+            "column": 18
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 87,
+            "sign": "Fr",
+            "name": "Francium",
+            "weight": "(223)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 1
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 88,
+            "sign": "Ra",
+            "name": "Radium",
+            "weight": "(226)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 2
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 89,
+            "sign": "Ac",
+            "name": "Actinium",
+            "weight": "(227)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 4
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 90,
+            "sign": "Th",
+            "name": "Thorium",
+            "weight": "232.0377",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 5
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 91,
+            "sign": "Pa",
+            "name": "Protactinium",
+            "weight": "231.03588",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 6
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 92,
+            "sign": "U",
+            "name": "Uranium",
+            "weight": "238.02891",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 7
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 93,
+            "sign": "Np",
+            "name": "Neptunium",
+            "weight": "(237)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 8
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 94,
+            "sign": "Pu",
+            "name": "Plutonium",
+            "weight": "(244)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 9
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 95,
+            "sign": "Am",
+            "name": "Americium",
+            "weight": "(243)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 10
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 96,
+            "sign": "Cm",
+            "name": "Curium",
+            "weight": "(247)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 11
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 97,
+            "sign": "Bk",
+            "name": "Berkelium",
+            "weight": "(247)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 12
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 98,
+            "sign": "Cf",
+            "name": "Californium",
+            "weight": "(251)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 13
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 99,
+            "sign": "Es",
+            "name": "Einsteinium",
+            "weight": "(252)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 14
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 100,
+            "sign": "Fm",
+            "name": "Fermium",
+            "weight": "(257)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 15
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 101,
+            "sign": "Md",
+            "name": "Mendelevium",
+            "weight": "(258)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 16
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 102,
+            "sign": "No",
+            "name": "Nobelium",
+            "weight": "(259)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 17
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 103,
+            "sign": "Lr",
+            "name": "Lawrencium",
+            "weight": "(266)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 9,
+            "column": 18
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 104,
+            "sign": "Rf",
+            "name": "Rutherfordium",
+            "weight": "(267)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 4
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 105,
+            "sign": "Db",
+            "name": "Dubnium",
+            "weight": "(268)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 5
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 106,
+            "sign": "Sg",
+            "name": "Seaborgium",
+            "weight": "(269)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 6
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 107,
+            "sign": "Bh",
+            "name": "Bohrium",
+            "weight": "(270)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 7
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 108,
+            "sign": "Hs",
+            "name": "Hassium",
+            "weight": "(270)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 8
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 109,
+            "sign": "Mt",
+            "name": "Meitnerium",
+            "weight": "(278)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 9
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 110,
+            "sign": "Ds",
+            "name": "Darmstadtium",
+            "weight": "(281)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 10
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 111,
+            "sign": "Rg",
+            "name": "Roentgenium",
+            "weight": "(282)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 11
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 112,
+            "sign": "Cn",
+            "name": "Copernicium",
+            "weight": "(285)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 12
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 113,
+            "sign": "Nh",
+            "name": "Nihonium",
+            "weight": "(286)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 13
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 114,
+            "sign": "Fl",
+            "name": "Flerovium",
+            "weight": "(289)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 14
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 115,
+            "sign": "Mc",
+            "name": "Moscovium",
+            "weight": "(290)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 15
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 116,
+            "sign": "Lv",
+            "name": "Livermorium",
+            "weight": "(293)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 16
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 117,
+            "sign": "Ts",
+            "name": "Tennessine",
+            "weight": "(294)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 17
+        }
+    },
+    {
+        "information": {
+            "orderNumber": 118,
+            "sign": "Og",
+            "name": "Oganesson",
+            "weight": "(294)",
+            "valence": "",
+            "group": "",
+            "state": "",
+            "open": "",
+            "electronic": "",
+            "tBoil": "",
+            "tMelt": ""
+        },
+        "position": {
+            "row": 7,
+            "column": 18
+        }
+    }
+]

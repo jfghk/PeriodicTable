@@ -1,26 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import PTGrid from './components/grid/PtGrid';
+import PtButton from './components/button/PtButton';
+import { AppBar, Box, Container, CssBaseline, Toolbar, Typography } from '@mui/material';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <>
+            <CssBaseline />
+            <div className="App">
+                <AppBar position="static">
+                    <Container maxWidth={false}>
+                        <Toolbar disableGutters>
+                            <Typography>Pt Table</Typography>
+                        </Toolbar>
+                    </Container>
+                </AppBar>
+                <Container maxWidth={false}>
+                  <Box pt={2}>
+                    <PTGrid></PTGrid>
+                  </Box>
+                </Container>
+            </div>
+        </>
+    );
 }
 
 export default App;
