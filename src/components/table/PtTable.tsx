@@ -26,12 +26,6 @@ const PtTable: FC<PtTableProps> = ({ onCellClick, search, selectedOrderNumber })
     });
     return (
         <Box display="grid" gridTemplateRows="repeat(9, 1fr)" gridTemplateColumns="repeat(18, 1fr)" gap={0.5}>
-            {/* <Box sx={{ 'grid-column-start': '1', 'grid-row-start': '1' }}>
-                <PtTableCell orderNumber={1} sign="H" name="Hydrogen" weight="1.008" />
-            </Box>
-            <Box sx={{ 'grid-column-start': '18', 'grid-row-start': '1' }}>
-                <PtTableCell orderNumber={2} sign="He" name="Helium" weight="4.0026" />
-            </Box> */}
             {cells.map(({ information, position, active, selected }, index: number) => (
                 <Box
                     key={index}
