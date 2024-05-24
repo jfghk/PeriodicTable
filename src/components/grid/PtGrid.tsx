@@ -39,28 +39,6 @@ function PTGrid() {
             <Grid item xs={10}>
                 <PtTable onCellClick={handleCellClick} cells={cells}/>
             </Grid>
-            {/* <Grid item xs={27}>
-                <PTSearch></PTSearch>
-            </Grid>
-            <Grid item xs={9}>
-                <PTCard></PTCard>
-            </Grid>
-            <Grid item xs={17}>
-                <Box>
-                    <PtTableCell orderNumber={1} sign="H" name="Hydrogen" weight="1.008" />
-                </Box>
-            </Grid>
-            <Grid item xs={1}>
-                <Box>
-                    <PtTableCell orderNumber={2} sign="He" name="Helium" weight="4.0026" />
-                </Box>
-            </Grid>
-            <Grid item xs={9}></Grid>
-            <Grid item xs={1}>
-                <Box>
-                    <PtTableCell orderNumber={1} sign="He" name="Helium" weight="4.0026" />
-                </Box>
-            </Grid> */}
         </Grid>
     );
 }

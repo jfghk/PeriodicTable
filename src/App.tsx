@@ -1,5 +1,4 @@
 import PTGrid from './components/grid/PtGrid';
-import PtButton from './components/button/PtButton';
 import { AppBar, Box, Container, CssBaseline, Toolbar, Typography } from '@mui/material';
 
 function App() {

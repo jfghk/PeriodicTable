@@ -18,7 +18,7 @@ const PtCard: FC<PtCardProps> = ({ information }) => {
                 <Grid container>
                     <Grid xs={4}>
                         <Typography sx={{ fontSize: 14 }}>Weight</Typography>
-                        <Typography sx={{ fontSize: 14 }}>OrderNumber</Typography>
+                        <Typography sx={{ fontSize: 14 }}>Number</Typography>
                         <Typography sx={{ fontSize: 14 }}>Name</Typography>
                         <Typography sx={{ fontSize: 14 }}>Valence</Typography>
                         <Typography sx={{ fontSize: 14 }}>Group</Typography>
